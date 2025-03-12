@@ -41,7 +41,7 @@
 ###
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12182490516&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12182490516&count=1)
 ###
 
 <p align="left">Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊</p>
